@@ -30,4 +30,3 @@
 ## 6. Testing
 
 - **Unit and Integration Testing**: React components are tested using libraries like `@testing-library/react` and Jest. Laravel tests focus on backend logic and API endpoints.
->>>>>>> 3f2737e113ed444216f15733891a091d6ee8219b
